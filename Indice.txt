@@ -1,4 +1,8 @@
 
 1.Introduccion a Git
+
 2.Flujo de trabajo
-3.Repositorios remotos
+
+3.Gestion de ramas
+
+4.Repositorios remotos
