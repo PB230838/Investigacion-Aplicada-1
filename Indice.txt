@@ -1,6 +1,5 @@
 //Anderson Alessandro Pablo Beltran PB230838
 
-
 1.Introduccion a Git
 
 2.Flujo de trabajo
